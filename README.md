@@ -1,6 +1,6 @@
 # VRChatWorldDocumentation
 
-#Read in raw for the right formatting.
+#READ_IN_RAW_FOR_PROPER_FORMATTING
 
 Catalog, personal rating, and short summary of new worlds visited.
 
