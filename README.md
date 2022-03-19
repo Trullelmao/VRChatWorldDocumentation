@@ -49,5 +49,5 @@ Summary: Very melancholic atmosphere. Creepy and dark.
 
 Name:    The Day Before
 Date:    2022-03-19
-Rating:  10
-Summary: Absolutely stunning world. Everything is really HD and lightning and placement of foilage and props are spot on. A must to visit.
+Rating:  9
+Summary: Absolutely stunning world. Everything is really HD and lightning and placement of foilage and props are spot on. The only thing bad is that you can see into a house and see that it's completely empty, Still a must to visit.
